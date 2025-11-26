@@ -15,6 +15,25 @@ O objetivo é simular um app de acompanhamento de saúde, permitindo que o(a) pa
 
 ---
 
+## 🚀 Como iniciar o projeto
+
+### 1. Baixar o projeto
+
+Você pode:
+
+- Clonar o repositório do GitHub:
+
+```bash
+git clone https://github.com/SEU-USUARIO/SEU-REPO.git
+cd SEU-REPO
+
+npm install
+
+
+npx expo start
+
+clicar "a" para android
+
 ## 🧩 Tecnologias utilizadas
 
 - **React Native** com **TypeScript**
